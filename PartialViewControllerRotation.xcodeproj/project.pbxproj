@@ -18,6 +18,8 @@
 		0991A1DE163524DF00E4626B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0991A1DD163524DF00E4626B /* Default-568h@2x.png */; };
 		0991A1E1163524DF00E4626B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0991A1E0163524DF00E4626B /* ViewController.m */; };
 		0991A1E4163524DF00E4626B /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0991A1E2163524DF00E4626B /* ViewController.xib */; };
+		0991A1F216352B8000E4626B /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0991A1F016352B8000E4626B /* SecondViewController.m */; };
+		0991A1F316352B8000E4626B /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0991A1F116352B8000E4626B /* SecondViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,9 @@
 		0991A1DF163524DF00E4626B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0991A1E0163524DF00E4626B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0991A1E3163524DF00E4626B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		0991A1EF16352B8000E4626B /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		0991A1F016352B8000E4626B /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		0991A1F116352B8000E4626B /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +94,9 @@
 				0991A1E0163524DF00E4626B /* ViewController.m */,
 				0991A1E2163524DF00E4626B /* ViewController.xib */,
 				0991A1CE163524DF00E4626B /* Supporting Files */,
+				0991A1EF16352B8000E4626B /* SecondViewController.h */,
+				0991A1F016352B8000E4626B /* SecondViewController.m */,
+				0991A1F116352B8000E4626B /* SecondViewController.xib */,
 			);
 			path = PartialViewControllerRotation;
 			sourceTree = "<group>";
@@ -163,6 +171,7 @@
 				0991A1DC163524DF00E4626B /* Default@2x.png in Resources */,
 				0991A1DE163524DF00E4626B /* Default-568h@2x.png in Resources */,
 				0991A1E4163524DF00E4626B /* ViewController.xib in Resources */,
+				0991A1F316352B8000E4626B /* SecondViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +185,7 @@
 				0991A1D4163524DF00E4626B /* main.m in Sources */,
 				0991A1D8163524DF00E4626B /* AppDelegate.m in Sources */,
 				0991A1E1163524DF00E4626B /* ViewController.m in Sources */,
+				0991A1F216352B8000E4626B /* SecondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
